@@ -1,0 +1,31 @@
+
+
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 450px;
+}
+
+
+
+/* Code from https://blog.logrocket.com/five-cool-css-header-styles-with-cross-browser-compatibility/ */
+.h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #255727;
+    text-shadow: 1px 1px 0px #4CAF50,
+                 1px 2px 0px #4CAF50,
+                 1px 3px 0px #4CAF50,
+                 1px 4px 0px #4CAF50,
+                 1px 5px 0px #4CAF50,
+                 1px 6px 0px #4CAF50,
+                 1px 10px 5px rgba(16, 16, 16, 0.5),
+                 1px 15px 10px rgba(16, 16, 16, 0.4),
+                 1px 20px 30px rgba(16, 16, 16, 0.3),
+                 1px 25px 50px rgba(16, 16, 16, 0.2);
+}
+
+
